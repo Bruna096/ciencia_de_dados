@@ -2,8 +2,8 @@
 
 :root {
     --bg-color: #edf3fd;
-    --primary-color: #9cc2f3;
-    --secondary-color: #2b428f;
+    --primary-color: #b69cf3;
+    --secondary-color: #6f2b8f;
     --font: "Nunito Sans", sans-serif;
 }
 
@@ -92,7 +92,7 @@ body{
 
 .cabeçario-1{
     
-    background-color: #c4ceb3;
+    background-color: #c5b3ce;
     display: flex;
     justify-items: center;
     
@@ -118,7 +118,7 @@ body{
 
 }
 .vindas{
-    background-color: #ffeddf;
+    background-color: #e3d2ee;
     padding: 52px 0;
     font-size: 27px;
     display: flex;
